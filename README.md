@@ -13,4 +13,4 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: Email
 - ⚡ Fun fact: ... -->
-[✒️ checkout my blog] (https://ron.gibson.com)
+✒️ checkout my blog at https://ron-gibson.com
